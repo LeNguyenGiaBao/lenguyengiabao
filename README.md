@@ -1,9 +1,18 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gia Bao
+
+<p align="center"><img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" /></p>
+
 - ✍ I'm a student of: Ho Chi Minh city University of Technology and Education (HCMUTE).
 - 🌱 I’m currently learning Python and AI
 - 💬 Ask me about Python, Tkinter (Python GUI)
 
 
+## 📫 How to reach me:
+Email: [***lenguyengiabao46.com***](mailto:lenguyengiabao46@gmail.com)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeNguyenGiaBao&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeNguyenGiaBao&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gia Bao's GitHub Stats" />
 <!--
 **LeNguyenGiaBao/lenguyengiabao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
