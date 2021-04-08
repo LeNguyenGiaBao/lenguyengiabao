@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" /></p>
 
-- ✍ I'm a student of: Ho Chi Minh city University of Technology and Education (HCMUTE).
+- ✍ I'm a student of:  [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 - 🌱 I’m currently learning Python and AI
 - 💬 Ask me about Python, Tkinter (Python GUI)
 
