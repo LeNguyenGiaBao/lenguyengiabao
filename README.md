@@ -2,10 +2,10 @@
 
 <p align="center"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" /></p>
 
+![](https://komarev.com/ghpvc/?username=lenguyengiabao&color=brightgreen)
 - ✍ I'm a student of:  [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 - 🌱 I’m currently learning Python and AI
 - 💬 Ask me about Python, Tkinter (Python GUI)
-
 
 ## 📫 How to reach me:
 Email: [***lenguyengiabao46@gmail.com***](mailto:lenguyengiabao46@gmail.com)
