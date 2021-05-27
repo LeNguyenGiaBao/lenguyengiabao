@@ -10,10 +10,10 @@
 ## 📫 How to reach me:
 Email: [***lenguyengiabao46@gmail.com***](mailto:lenguyengiabao46@gmail.com)
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeNguyenGiaBao&hide=java,html&title_color=000000&text_color=233028&icon_color=ffa343&bg_color=ffffff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeNguyenGiaBao&hide=html&title_color=000000&text_color=233028&icon_color=ffa343&bg_color=ffffff" width="50%" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeNguyenGiaBao&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=233028&icon_color=ffa343&bg_color=ffffff" alt="Gia Bao's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeNguyenGiaBao&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=233028&icon_color=ffa343&bg_color=ffffff" alt="Gia Bao's GitHub Stats" width="50%" />
 </p>
 <!--
 **LeNguyenGiaBao/lenguyengiabao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
